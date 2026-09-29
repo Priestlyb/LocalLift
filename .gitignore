@@ -46,3 +46,7 @@ yarn-error.*
 # Local/editor files
 .vscode/
 .idea/
+
+# Local development tools
+.claude/
+.vscode/
